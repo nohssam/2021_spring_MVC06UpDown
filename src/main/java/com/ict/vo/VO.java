@@ -2,7 +2,7 @@ package com.ict.vo;
 
 import org.springframework.web.multipart.MultipartFile;
 
-public class VO {
+public class VO { 
 	// f_name 는  DB 저장할 이름
 	private String name, f_name;
 	
